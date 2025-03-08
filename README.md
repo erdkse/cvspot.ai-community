@@ -28,7 +28,11 @@ Below are some videos showcasing key features:
 
 - **Resume Creation**:
 
+https://github.com/user-attachments/assets/2871e846-cda8-4140-925d-190b3fc08152
+
 - **Job Analysis & Insights**:
+
+https://github.com/user-attachments/assets/8015e81b-4788-4f54-a9fd-2c3835316310
 
 ## 🛠️ How It Works
 

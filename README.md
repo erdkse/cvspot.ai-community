@@ -1,13 +1,13 @@
 # CVSpot.ai
 
-Welcome to **CVSpot.ai** – the ultimate AI-powered resume and job application assistant. With CVSpot.ai, you can create professional resumes, customize templates, analyze job descriptions against your resume, gain actionable insights, and generate cover letters tailored to job listings.
+Welcome to **CVSpot.ai** – the ultimate AI-powered resume and job application assistant. With CVSpot.ai, you can create professional resumes, customize templates, analyze job descriptions against your resume, gain actionable insights, and generate cover letters tailored to job listings. **No sign-ups or sign-ins required – use it instantly!**
 
 ## 🚀 Features
 
 ### ✨ Create Professional Resumes
 
 - Easily build resumes with our intuitive form-based editor.
-- No sign-in required to create and download your resume.
+- **No sign-in required** to create and download your resume.
 - Customize and switch between different resume templates.
 
 ### 🔍 Analyze Jobs & Get Insights
@@ -28,11 +28,11 @@ Below are some videos showcasing key features:
 
 - **Resume Creation**:
 
-https://github.com/user-attachments/assets/2871e846-cda8-4140-925d-190b3fc08152
+  https://github.com/user-attachments/assets/2871e846-cda8-4140-925d-190b3fc08152
 
 - **Job Analysis & Insights**:
 
-https://github.com/user-attachments/assets/8015e81b-4788-4f54-a9fd-2c3835316310
+  https://github.com/user-attachments/assets/8015e81b-4788-4f54-a9fd-2c3835316310
 
 ## 🛠️ How It Works
 
@@ -53,14 +53,15 @@ We are continuously improving CVSpot.ai to provide even better features for job 
 
 ## 🔗 Try CVSpot.ai
 
-Experience it now at **[cvspot.ai](https://cvspot.ai)** and get a head start on your job applications!
+Experience it now at **[cvspot.ai](https://cvspot.ai)** and get a head start on your job applications! **No sign-up required!**
 
-## 🤝 Contribute
+## 🤝 Contribute & Support
 
 We welcome feedback and contributions! If you encounter issues or have suggestions, you can contribute by:
 
 - Creating **GitHub issues** for feature requests, bug reports, or general feedback.
 - Sharing ideas for new features and enhancements.
+- For support and feedback, visit **[support.cvspot.ai](https://support.cvspot.ai)**.
 
 ## 📜 License
 
